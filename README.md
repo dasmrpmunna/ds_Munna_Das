@@ -8,6 +8,7 @@ All analysis, cleaning, merging, EDA, and feature creation were performed in Goo
 
 ## 📁 Project Structure
 
+```
 ds_Munna_Das/
 ├── notebook_1.ipynb # Main Colab notebook (all core work)
 ├── csv_files/ # All processed/intermediate CSV outputs
@@ -18,7 +19,7 @@ ds_Munna_Das/
 │ └── daily_avg_pnl.png
 ├── ds_report.pdf # Final summarized report (insights + findings)
 └── README.md # Project documentation
-
+```
 
 
 ---
