@@ -10,15 +10,15 @@ All analysis, cleaning, merging, EDA, and feature creation were performed in Goo
 
 ```
 ds_Munna_Das/
-├── notebook_1.ipynb # Main Colab notebook (all core work)
-├── csv_files/ # All processed/intermediate CSV outputs
+├── notebook_1.ipynb              # Main Colab notebook (all core work)
+├── csv_files/                    # All processed/intermediate CSV outputs
 │ ├── merged_trades_sentiment.csv
 │ └── trader_features.csv
-├── outputs/ # Visual outputs, charts, and EDA images
+├── outputs/                       # Visual outputs, charts, and EDA images
 │ ├── boxplot_pnl_by_sentiment.png
 │ └── daily_avg_pnl.png
-├── ds_report.pdf # Final summarized report (insights + findings)
-└── README.md # Project documentation
+├── ds_report.pdf                   # Final summarized report (insights + findings)
+└── README.md                       # Project documentation
 ```
 
 
